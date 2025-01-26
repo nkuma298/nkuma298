@@ -5,13 +5,16 @@ I'm a **Software Engineer** with 3.9 years of experience working at **Capgemini*
 **🚀 Technologies I work with:**
 
 **Frontend:**
-JavaScript, React, Angular
+JavaScript, React, Angular, HTML, CSS
 
 **Backend:**
 Node.js, Java
 
+**Database:**
+MongoDB, MySQL
+
 **Other Skills:**
-Digital Marketing, SEO, Blogging, Web Security
+Digital Marketing, SEO, Data Structure & Algorithms, Web Security
 
 **📚 What I do:**
 

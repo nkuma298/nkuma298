@@ -1,4 +1,5 @@
-**Hi there, I'm Neha** 👋
+**Hi there, I'm Neha 👋**
+
 I'm a **Software Engineer** with 3.9 years of experience working at **Capgemini**. I am passionate about technology and constantly strive to enhance my skills by working with cutting-edge tools and frameworks. My goal is to build high-quality, scalable applications while staying up-to-date with industry best practices.
 
 **🚀 Technologies I work with:**
